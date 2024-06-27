@@ -1,0 +1,7 @@
+# Movie/TV Show Parser
+
+This Python script parses information about a movie or TV show from a given page link and creates a JSON file with the details.
+The script uses the `argparse` module for handling command-line arguments.
+
+Example:
+python3 parser.py "https://www.imdb.com/title/tt2005151/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_war%2520dogs"
