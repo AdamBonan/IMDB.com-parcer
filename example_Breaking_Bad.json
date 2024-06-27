@@ -1,0 +1,453 @@
+{
+    "title": "Breaking Bad",
+    "genre": [
+        "Crime",
+        "Drama",
+        "Thriller"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmQ4YWMxYjUtNjZmYi00MDQ1LWFjMjMtNjA5ZDdiYjdiODU5XkEyXkFqcGdeQXVyMTMzNDExODE5._V1_.jpg",
+    "short_description": "A chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine with a former student in order to secure his family&apos;s future.",
+    "cast": [
+        "Bryan Cranston",
+        "Anna Gunn",
+        "Aaron Paul",
+        "Betsy Brandt",
+        "RJ Mitte",
+        "Dean Norris",
+        "Bob Odenkirk",
+        "Steven Michael Quezada",
+        "Jonathan Banks",
+        "Giancarlo Esposito"
+    ],
+    "director": [
+        "Michelle MacLaren",
+        "Adam Bernstein",
+        "Vince Gilligan",
+        "Colin Bucksey",
+        "Michael Slovis",
+        "Bryan Cranston",
+        "Terry McDonough",
+        "Johan Renck",
+        "Rian Johnson",
+        "Scott Winant",
+        "Peter Gould",
+        "Tricia Brock",
+        "Bronwen Hughes",
+        "Tim Hunter",
+        "Jim McKay",
+        "Phil Abraham",
+        "John Dahl",
+        "F\u00e9lix Enr\u00edquez Alcal\u00e1",
+        "Charles Haid",
+        "Peter Medak",
+        "John Shiban",
+        "David Slade",
+        "George Mastras",
+        "Thomas Schnauz",
+        "Sam Catlin"
+    ],
+    "producer": [
+        "Melissa Bernstein",
+        "Vince Gilligan",
+        "Mark Johnson",
+        "Stewart Lyons",
+        "Sam Catlin",
+        "Diane Mercer",
+        "Peter Gould",
+        "Michelle MacLaren",
+        "George Mastras",
+        "Thomas Schnauz",
+        "Moira Walley-Beckett",
+        "John Shiban",
+        "Bryan Cranston",
+        "Andrew Ortner",
+        "Karen Moore",
+        "Patty Lin",
+        "Gina Scheerer"
+    ],
+    "writer": [
+        "Vince Gilligan",
+        "Vince Gilligan",
+        "Peter Gould",
+        "Peter Gould",
+        "George Mastras",
+        "George Mastras",
+        "Sam Catlin",
+        "Moira Walley-Beckett",
+        "Moira Walley-Beckett",
+        "Thomas Schnauz",
+        "Gennifer Hutchison",
+        "John Shiban",
+        "J. Roberts",
+        "J. Roberts",
+        "Patty Lin"
+    ],
+    "release_date": "2008-01-20",
+    "country_of_origin": [
+        "United States"
+    ],
+    "production_companies": [
+        "High Bridge Productions",
+        "Gran Via Productions",
+        "Sony Pictures Television"
+    ],
+    "certificate": "TV-MA",
+    "taglines": [
+        "In the no-holds-barred world of Walt White, the end justifies the extreme. (season 2)",
+        "Unstable. Volatile. Dangerous. And That's Just The Chemistry. (season 3)",
+        "On March 8, All Becomes Crystal Clear. (season 2)",
+        "Change [the] Equation. (season 1)",
+        "All Hail The King (season 5, part 1)",
+        "Power Corrodes (season 5, part 1)",
+        "You Got No Proof: Getting Away With It Since 2008 - A Dealer In Style (season 3)",
+        "Warning: Extremely Volatile (season 4)",
+        "Walter White Is a Chemist, Father, Compulsive Liar, Meth Cook, \"Heisenberg\", Killer, Cancer Survivor, Meth Master Chef, Drug King Pin? (season 5, part 1)",
+        "The experiment is out of control. (season 3)",
+        "All bad things must come to an end (season 5, part 2)",
+        "Remember My Name (season 5, part 2)",
+        "Walter White: Chemist, Meth Cook, Heisenberg, Killer, Drug King Pin? (season 5, part 1)"
+    ],
+    "imdb_rating": {
+        "rating_value": 9.5,
+        "rating_count": 2162779
+    },
+    "runtime": "45m",
+    "count": 5,
+    "seasons": [
+        {
+            "seasons_numbers": 1,
+            "episodes": [
+                {
+                    "episode_number": "1",
+                    "episode_title": "Pilot",
+                    "episode_date": "Sat, Jan 19, 2008"
+                },
+                {
+                    "episode_number": "2",
+                    "episode_title": "Cat's in the Bag...",
+                    "episode_date": "Sat, Jan 26, 2008"
+                },
+                {
+                    "episode_number": "3",
+                    "episode_title": "...And the Bag's in the River",
+                    "episode_date": "Sat, Feb 9, 2008"
+                },
+                {
+                    "episode_number": "4",
+                    "episode_title": "Cancer Man",
+                    "episode_date": "Sat, Feb 16, 2008"
+                },
+                {
+                    "episode_number": "5",
+                    "episode_title": "Gray Matter",
+                    "episode_date": "Sat, Feb 23, 2008"
+                },
+                {
+                    "episode_number": "6",
+                    "episode_title": "Crazy Handful of Nothin'",
+                    "episode_date": "Sat, Mar 1, 2008"
+                },
+                {
+                    "episode_number": "7",
+                    "episode_title": "A No-Rough-Stuff-Type Deal",
+                    "episode_date": "Sat, Mar 8, 2008"
+                }
+            ]
+        },
+        {
+            "seasons_numbers": 2,
+            "episodes": [
+                {
+                    "episode_number": "1",
+                    "episode_title": "Seven Thirty-Seven",
+                    "episode_date": "Sat, Mar 7, 2009"
+                },
+                {
+                    "episode_number": "2",
+                    "episode_title": "Grilled",
+                    "episode_date": "Sat, Mar 14, 2009"
+                },
+                {
+                    "episode_number": "3",
+                    "episode_title": "Bit by a Dead Bee",
+                    "episode_date": "Sat, Mar 21, 2009"
+                },
+                {
+                    "episode_number": "4",
+                    "episode_title": "Down",
+                    "episode_date": "Sat, Mar 28, 2009"
+                },
+                {
+                    "episode_number": "5",
+                    "episode_title": "Breakage",
+                    "episode_date": "Sat, Apr 4, 2009"
+                },
+                {
+                    "episode_number": "6",
+                    "episode_title": "Peekaboo",
+                    "episode_date": "Sat, Apr 11, 2009"
+                },
+                {
+                    "episode_number": "7",
+                    "episode_title": "Negro y Azul",
+                    "episode_date": "Sat, Apr 18, 2009"
+                },
+                {
+                    "episode_number": "8",
+                    "episode_title": "Better Call Saul",
+                    "episode_date": "Sat, Apr 25, 2009"
+                },
+                {
+                    "episode_number": "9",
+                    "episode_title": "4 Days Out",
+                    "episode_date": "Sat, May 2, 2009"
+                },
+                {
+                    "episode_number": "10",
+                    "episode_title": "Over",
+                    "episode_date": "Sat, May 9, 2009"
+                },
+                {
+                    "episode_number": "11",
+                    "episode_title": "Mandala",
+                    "episode_date": "Sat, May 16, 2009"
+                },
+                {
+                    "episode_number": "12",
+                    "episode_title": "Phoenix",
+                    "episode_date": "Sat, May 23, 2009"
+                },
+                {
+                    "episode_number": "13",
+                    "episode_title": "ABQ",
+                    "episode_date": "Sat, May 30, 2009"
+                }
+            ]
+        },
+        {
+            "seasons_numbers": 3,
+            "episodes": [
+                {
+                    "episode_number": "1",
+                    "episode_title": "No M\u00e1s",
+                    "episode_date": "Sat, Mar 20, 2010"
+                },
+                {
+                    "episode_number": "2",
+                    "episode_title": "Caballo sin Nombre",
+                    "episode_date": "Sat, Mar 27, 2010"
+                },
+                {
+                    "episode_number": "3",
+                    "episode_title": "I.F.T.",
+                    "episode_date": "Sat, Apr 3, 2010"
+                },
+                {
+                    "episode_number": "4",
+                    "episode_title": "Green Light",
+                    "episode_date": "Sat, Apr 10, 2010"
+                },
+                {
+                    "episode_number": "5",
+                    "episode_title": "M\u00e1s",
+                    "episode_date": "Sat, Apr 17, 2010"
+                },
+                {
+                    "episode_number": "6",
+                    "episode_title": "Sunset",
+                    "episode_date": "Sat, Apr 24, 2010"
+                },
+                {
+                    "episode_number": "7",
+                    "episode_title": "One Minute",
+                    "episode_date": "Sat, May 1, 2010"
+                },
+                {
+                    "episode_number": "8",
+                    "episode_title": "I See You",
+                    "episode_date": "Sat, May 8, 2010"
+                },
+                {
+                    "episode_number": "9",
+                    "episode_title": "Kafkaesque",
+                    "episode_date": "Sat, May 15, 2010"
+                },
+                {
+                    "episode_number": "10",
+                    "episode_title": "Fly",
+                    "episode_date": "Sat, May 22, 2010"
+                },
+                {
+                    "episode_number": "11",
+                    "episode_title": "Abiquiu",
+                    "episode_date": "Sat, May 29, 2010"
+                },
+                {
+                    "episode_number": "12",
+                    "episode_title": "Half Measures",
+                    "episode_date": "Sat, Jun 5, 2010"
+                },
+                {
+                    "episode_number": "13",
+                    "episode_title": "Full Measure",
+                    "episode_date": "Sat, Jun 12, 2010"
+                }
+            ]
+        },
+        {
+            "seasons_numbers": 4,
+            "episodes": [
+                {
+                    "episode_number": "1",
+                    "episode_title": "Box Cutter",
+                    "episode_date": "Sat, Jul 16, 2011"
+                },
+                {
+                    "episode_number": "2",
+                    "episode_title": "Thirty-Eight Snub",
+                    "episode_date": "Sat, Jul 23, 2011"
+                },
+                {
+                    "episode_number": "3",
+                    "episode_title": "Open House",
+                    "episode_date": "Sat, Jul 30, 2011"
+                },
+                {
+                    "episode_number": "4",
+                    "episode_title": "Bullet Points",
+                    "episode_date": "Sat, Aug 6, 2011"
+                },
+                {
+                    "episode_number": "5",
+                    "episode_title": "Shotgun",
+                    "episode_date": "Sat, Aug 13, 2011"
+                },
+                {
+                    "episode_number": "6",
+                    "episode_title": "Cornered",
+                    "episode_date": "Sat, Aug 20, 2011"
+                },
+                {
+                    "episode_number": "7",
+                    "episode_title": "Problem Dog",
+                    "episode_date": "Sat, Aug 27, 2011"
+                },
+                {
+                    "episode_number": "8",
+                    "episode_title": "Hermanos",
+                    "episode_date": "Sat, Sep 3, 2011"
+                },
+                {
+                    "episode_number": "9",
+                    "episode_title": "Bug",
+                    "episode_date": "Sat, Sep 10, 2011"
+                },
+                {
+                    "episode_number": "10",
+                    "episode_title": "Salud",
+                    "episode_date": "Sat, Sep 17, 2011"
+                },
+                {
+                    "episode_number": "11",
+                    "episode_title": "Crawl Space",
+                    "episode_date": "Sat, Sep 24, 2011"
+                },
+                {
+                    "episode_number": "12",
+                    "episode_title": "End Times",
+                    "episode_date": "Sat, Oct 1, 2011"
+                },
+                {
+                    "episode_number": "13",
+                    "episode_title": "Face Off",
+                    "episode_date": "Sat, Oct 8, 2011"
+                }
+            ]
+        },
+        {
+            "seasons_numbers": 5,
+            "episodes": [
+                {
+                    "episode_number": "1",
+                    "episode_title": "Live Free or Die",
+                    "episode_date": "Sat, Jul 14, 2012"
+                },
+                {
+                    "episode_number": "2",
+                    "episode_title": "Madrigal",
+                    "episode_date": "Sat, Jul 21, 2012"
+                },
+                {
+                    "episode_number": "3",
+                    "episode_title": "Hazard Pay",
+                    "episode_date": "Sat, Jul 28, 2012"
+                },
+                {
+                    "episode_number": "4",
+                    "episode_title": "Fifty-One",
+                    "episode_date": "Sat, Aug 4, 2012"
+                },
+                {
+                    "episode_number": "5",
+                    "episode_title": "Dead Freight",
+                    "episode_date": "Sat, Aug 11, 2012"
+                },
+                {
+                    "episode_number": "6",
+                    "episode_title": "Buyout",
+                    "episode_date": "Sat, Aug 18, 2012"
+                },
+                {
+                    "episode_number": "7",
+                    "episode_title": "Say My Name",
+                    "episode_date": "Sat, Aug 25, 2012"
+                },
+                {
+                    "episode_number": "8",
+                    "episode_title": "Gliding Over All",
+                    "episode_date": "Sat, Sep 1, 2012"
+                },
+                {
+                    "episode_number": "9",
+                    "episode_title": "Blood Money",
+                    "episode_date": "Sat, Aug 10, 2013"
+                },
+                {
+                    "episode_number": "10",
+                    "episode_title": "Buried",
+                    "episode_date": "Sat, Aug 17, 2013"
+                },
+                {
+                    "episode_number": "11",
+                    "episode_title": "Confessions",
+                    "episode_date": "Sat, Aug 24, 2013"
+                },
+                {
+                    "episode_number": "12",
+                    "episode_title": "Rabid Dog",
+                    "episode_date": "Sat, Aug 31, 2013"
+                },
+                {
+                    "episode_number": "13",
+                    "episode_title": "To'hajiilee",
+                    "episode_date": "Sat, Sep 7, 2013"
+                },
+                {
+                    "episode_number": "14",
+                    "episode_title": "Ozymandias",
+                    "episode_date": "Sat, Sep 14, 2013"
+                },
+                {
+                    "episode_number": "15",
+                    "episode_title": "Granite State",
+                    "episode_date": "Sat, Sep 21, 2013"
+                },
+                {
+                    "episode_number": "16",
+                    "episode_title": "Felina",
+                    "episode_date": "Sat, Sep 28, 2013"
+                }
+            ]
+        }
+    ]
+}
